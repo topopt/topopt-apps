@@ -2,7 +2,7 @@
 
 Desktop versions of the interactive topology optimization apps from the
 [TopOpt group](https://www.topopt.mek.dtu.dk) at the Technical University of Denmark (DTU).
-iPhone and iPad versions are on the [App Store](https://apps.apple.com/app/topopt/id507454646).
+TopOpt 2D for phones and tablets: [App Store](https://apps.apple.com/app/topopt/id507454646) (iPhone, iPad) and [Google Play](https://play.google.com/store/apps/details?id=com.TopOpt.TopOpt) (Android).
 
 ## TopOpt 2D, version 3.0
 
