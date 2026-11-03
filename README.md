@@ -27,7 +27,8 @@ Coming soon.
 - **macOS:** unzip and move the app to Applications. The app is not notarized by Apple yet, so the
   first start is blocked: open it once, then choose System Settings > Privacy & Security > Open Anyway.
 - **Windows:** unzip and run `TopOpt2D.exe` in the folder. The app is not signed yet, so Windows
-  SmartScreen may warn: choose More info > Run anyway.
+  SmartScreen may warn: choose More info > Run anyway. If it reports a missing VCRUNTIME140 or
+  MSVCP140 DLL, install the [Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 - **Linux (AppImage):** `chmod +x TopOpt2D_v3.0_Linux.AppImage`, then run it.
 - **Linux (tar.gz):** `tar -xzf TopOpt2D_v3.0_Linux.tar.gz` and run `TopOpt2D` in the folder.
 
