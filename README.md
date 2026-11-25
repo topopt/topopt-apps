@@ -4,7 +4,7 @@ Desktop versions of the interactive topology optimization apps from the
 [TopOpt group](https://www.topopt.mek.dtu.dk) at the Technical University of Denmark (DTU).
 TopOpt 2D for phones and tablets: [App Store](https://apps.apple.com/app/topopt/id507454646) (iPhone, iPad) and [Google Play](https://play.google.com/store/apps/details?id=com.TopOpt.TopOpt) (Android).
 
-TopOpt 3D for phones and tablets: [App Store](https://apps.apple.com/app/topopt-3d/id881472301) (iPhone, iPad). Android: the [APK below](#topopt-3d-version-30), until the app is on Google Play.
+TopOpt 3D for phones and tablets: [App Store](https://apps.apple.com/app/topopt-3d/id881472301) (iPhone, iPad) and [Google Play](https://play.google.com/store/apps/details?id=com.TopOpt.TopOptApp3D) (Android).
 
 ## TopOpt 2D, version 3.0
 
@@ -35,7 +35,6 @@ More, and the user guide: [Interactive 3D TopOpt App](https://www.topopt.mek.dtu
 | Windows 10/11 (64-bit) | [TopOpt3D_v3.0_Windows.zip](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Windows.zip) |
 | Linux x86_64 (double-click) | [TopOpt3D_v3.0_Linux.AppImage](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Linux.AppImage) |
 | Linux x86_64 (plain folder) | [TopOpt3D_v3.0_Linux.tar.gz](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Linux.tar.gz) |
-| Android 7 or later (64-bit, until Google Play) | [TopOpt3D_v3.0_Android.apk](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Android.apk) |
 
 Example files: [jet engine bracket](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_jet-engine-bracket.zip) (three STL files, used in the guide's tutorial).
 
@@ -48,9 +47,6 @@ Example files: [jet engine bracket](https://github.com/topopt/topopt-apps/releas
   MSVCP140 DLL, install the [Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 - **Linux (AppImage):** `chmod +x TopOpt2D_v3.0_Linux.AppImage` (TopOpt 3D: `TopOpt3D_v3.0_Linux.AppImage`), then run it.
 - **Linux (tar.gz):** `tar -xzf TopOpt2D_v3.0_Linux.tar.gz` and run `TopOpt2D` in the folder (TopOpt 3D: `TopOpt3D_v3.0_Linux.tar.gz` and `TopOpt3D.App`).
-- **Android (APK):** open TopOpt3D_v3.0_Android.apk on the phone or tablet (Android 7 or later, 64-bit) and allow the browser or file
-  app to install it. The Google Play version is in review. The APK cannot be updated from Google Play: once the app is there, uninstall the APK
-  version first (save your problems and designs to files before).
 
 All versions: [releases](https://github.com/topopt/topopt-apps/releases).
 
