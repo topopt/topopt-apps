@@ -20,7 +20,7 @@ More, and the user guide: [Interactive 2D TopOpt App](https://www.topopt.mek.dtu
 | Linux x86_64 (double-click) | [TopOpt2D_v3.0_Linux.AppImage](https://github.com/topopt/topopt-apps/releases/download/topopt2d-v3.0/TopOpt2D_v3.0_Linux.AppImage) |
 | Linux x86_64 (plain folder) | [TopOpt2D_v3.0_Linux.tar.gz](https://github.com/topopt/topopt-apps/releases/download/topopt2d-v3.0/TopOpt2D_v3.0_Linux.tar.gz) |
 
-## TopOpt 3D, version 3.0
+## TopOpt 3D, version 3.0.1
 
 Place loads, supports and passive regions in a box-shaped design domain, and the optimized
 structure appears and updates in real time. Minimum compliance under up to four load cases and
@@ -31,10 +31,10 @@ More, and the user guide: [Interactive 3D TopOpt App](https://www.topopt.mek.dtu
 
 | Platform | Download |
 |---|---|
-| macOS 14 or later (Apple Silicon, M1 or later) | [TopOpt3D_v3.0_macOS.zip](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_macOS.zip) |
-| Windows 10/11 (64-bit) | [TopOpt3D_v3.0_Windows.zip](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Windows.zip) |
-| Linux x86_64 (double-click) | [TopOpt3D_v3.0_Linux.AppImage](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Linux.AppImage) |
-| Linux x86_64 (plain folder) | [TopOpt3D_v3.0_Linux.tar.gz](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_Linux.tar.gz) |
+| macOS 14 or later (Apple Silicon, M1 or later) | [TopOpt3D_v3.0.1_macOS.zip](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0.1/TopOpt3D_v3.0.1_macOS.zip) |
+| Windows 10/11 (64-bit) | [TopOpt3D_v3.0.1_Windows.zip](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0.1/TopOpt3D_v3.0.1_Windows.zip) |
+| Linux x86_64 (double-click) | [TopOpt3D_v3.0.1_Linux.AppImage](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0.1/TopOpt3D_v3.0.1_Linux.AppImage) |
+| Linux x86_64 (plain folder) | [TopOpt3D_v3.0.1_Linux.tar.gz](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0.1/TopOpt3D_v3.0.1_Linux.tar.gz) |
 
 Example files: [jet engine bracket](https://github.com/topopt/topopt-apps/releases/download/topopt3d-v3.0/TopOpt3D_v3.0_jet-engine-bracket.zip) (three STL files, used in the guide's tutorial).
 
@@ -45,8 +45,8 @@ Example files: [jet engine bracket](https://github.com/topopt/topopt-apps/releas
 - **Windows:** unzip and run `TopOpt2D.exe` (TopOpt 2D) or `TopOpt3D.App.exe` (TopOpt 3D) in the folder. The app is not signed yet, so Windows
   SmartScreen may warn: choose More info > Run anyway. If it reports a missing VCRUNTIME140 or
   MSVCP140 DLL, install the [Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-- **Linux (AppImage):** `chmod +x TopOpt2D_v3.0_Linux.AppImage` (TopOpt 3D: `TopOpt3D_v3.0_Linux.AppImage`), then run it.
-- **Linux (tar.gz):** `tar -xzf TopOpt2D_v3.0_Linux.tar.gz` and run `TopOpt2D` in the folder (TopOpt 3D: `TopOpt3D_v3.0_Linux.tar.gz` and `TopOpt3D.App`).
+- **Linux (AppImage):** `chmod +x TopOpt2D_v3.0_Linux.AppImage` (TopOpt 3D: `TopOpt3D_v3.0.1_Linux.AppImage`), then run it.
+- **Linux (tar.gz):** `tar -xzf TopOpt2D_v3.0_Linux.tar.gz` and run `TopOpt2D` in the folder (TopOpt 3D: `TopOpt3D_v3.0.1_Linux.tar.gz` and `TopOpt3D.App`).
 
 All versions: [releases](https://github.com/topopt/topopt-apps/releases).
 
